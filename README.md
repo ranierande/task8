@@ -1,2 +1,2 @@
 # task8
-video upload through aws
+image upload through aws
